@@ -1,5 +1,6 @@
 // TodoItem.js
 import React from 'react';
+import './App.css';
 
 const TodoItem = ({ task, handleDelete }) => {
   return (

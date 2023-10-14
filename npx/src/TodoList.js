@@ -1,6 +1,7 @@
 // TodoList.js
 import React from 'react';
 import TodoItem from './TodoItem';
+import './App.css';
 
 const TodoList = ({ tasks, handleDelete }) => {
   return (
