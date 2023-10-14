@@ -1,3 +1,35 @@
 .App {
   text-align: center;
 }
+
+/* here lets do to bro */
+
+/* App.css */
+
+.todo-app {
+  max-width: 400px;
+  margin: auto;
+  text-align: center;
+}
+
+.task-input input {
+  width: 70%;
+  padding: 5px;
+}
+
+.task-input button {
+  padding: 5px 10px;
+}
+
+.tasks {
+  margin-top: 20px;
+  text-align: left;
+}
+
+.task {
+  margin-bottom: 10px;
+}
+
+.task button {
+  margin-left: 10px;
+}
